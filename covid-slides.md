@@ -53,9 +53,9 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
-- As of 16/01/21 over two million COVID-19 deaths worldwide. One in 50 people in England and one in 30 people in London are currently infected; for most people it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with SARS-CoV-2; however, a small subset of of people with disease need hospital admission and a small subset of those need ITU.
+- As of 16/01/21 over two million COVID-19 deaths world wide. One in 50 people in England and one in 30 people in London are currently infected; for most people it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with SARS-CoV-2; however, a small subset of people with disease need hospital admission and a small subset of those need ITU.
 
-# {data-background="images/uk_cases_john_hopkins.png"}
+# {data-background="images/uk_cases_john_hopkins2.png"}
 
 [screenshot from John Hopkins COVID-19 dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
