@@ -1,12 +1,13 @@
 % COVID-19 slides
 % Carl Reynolds, Zaheer Mangera, Iris Vlachantoni 
-% 25 March 2020 (updated 16th Jan 2021)
+% 16th Jan 2021
 
 # Caveat emptor
 
 #
 
 This is written by respiratory doctors for an audience that includes medical students in the midst of a pandemic; it's a fluid situation, lots of research is being done and information contained within may become stale quickly. If you spot a bug or inaccuracy please ping me at [drcjar@gmail.com](drcjar@gmail.com) or submit a pull request [https://github.com/drcjar/covid-19-cxh-slides/](https://github.com/drcjar/covid-19-cxh-slides/) and I will fix.
+
 #
 
 With thanks to Richard Turner, Clare Ross, and Marsten Hillier who helped with earlier versions of this slide deck.
