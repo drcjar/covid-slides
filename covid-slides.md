@@ -65,7 +65,7 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
-- No significant sex difference, risk factors for disease include include having contact with a confirmed case, [risk factors for more severe disease (and death) include being older, having comorbidities such as pre-existing respiratory, cardiovascular, and renal diseases, obesity, diabetes, cancer, dementia and smoking.](https://www.nature.com/articles/s41586-020-2521-4)
+- Risk factors for disease include include having contact with a confirmed case [risk factors for more severe disease (and death) include being older, being male, having comorbidities such as pre-existing respiratory, cardiovascular, and renal diseases, obesity, diabetes, cancer, dementia and smoking.](https://www.nature.com/articles/s41586-020-2521-4)
 
 #
 
@@ -156,6 +156,10 @@ Patients who are too breathless to carry out their activities of daily living ne
 #
 
 Patients are discharged when they are stable and no longer require oxygen (average length of stay is around 7-10 days). All patients at NMUH are referred to our covid follow up clinic and provided with safety netting advice that should their symptoms worsen or they have any other concern they should seek medical attention. 
+
+#
+
+Most people get better. Small number of people have persistant symtoms e.g long covid. Fibrosis and pulmonary embolism can complicated recovery. 
 
 # Useful contacts
 
